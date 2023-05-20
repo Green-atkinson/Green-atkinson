@@ -1,8 +1,8 @@
 # Hi, I'm John
 
-Hey, I'm John! I'm a dynamic individual with a passion for both technology and design. I'm a developer looking to merge my interests through intentional design in technology to inspire social change. Having achieved the rank of Eagle Scout, Ron Brown Scholars Captain, and being an MLT fellow, I aim to embody my mantra of identifying a need and making a difference through utilizing my diverse skillset.
+Hey, I'm John! I'm a Computer Science and Advertising major at the University of Georgia. As an Eagle Scout, Ron Brown Scholar, and MLT Software Engineering Fellow, I'm passionate about using tech to positively impact products and people around the world.
 
-I am currently seeking a Remote software developer internship that will combine my skills and interests for Summer 2023. Open to any opportunity.
+My interest in tech started when I was a Harvard summer school student, where I took the opportunity to interview computer engineers working on deep-sea explorers in a marine bio lab. Since then, I've been actively involved in the tech community, serving as the Logistics and Marketing organizer for my university's flagship hackathon. In this role, I helped grow our $40,000 organization to have the most pre-registration attendees to date. I'm proud to say that we also held the first product-focused event centered around sustainability.
 
 
 
