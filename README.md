@@ -53,10 +53,10 @@ My interest in tech grew tremendously when I was a Harvard summer student, where
 <div align="center">
  <h3 align="left">Stats:</h3>
  <a href="https://github.com/Green-atkinson">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-atkinson&layout=compact&langs_count=7&theme=blue-green"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Green-atkinson&show_icons=true&theme=blue-green"/>
-  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-atkinson&theme=highcontrast" alt="Green-atkinson">
-  <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Green-atkinson&theme=highcontrast" alt="Green-atkinson"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Green-atkinson&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Green-atkinson&show_icons=true&theme=dark"/>
+  <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-atkinson&theme=dark" alt="Green-atkinson">
+  <img height="180em" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Green-atkinson&theme=dark" alt="Green-atkinson"/>
  </a>
 </div>
   
