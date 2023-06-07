@@ -1,4 +1,4 @@
-# Hi, I'm John
+## 👋🏾Hey! I'm John ![mona-whisper](https://github.githubassets.com/images/mona-whisper.gif)
 
 Seeking Technical Product Management internship for Summer 2024. Open to any opportunity.
 
