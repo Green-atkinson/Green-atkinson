@@ -15,7 +15,7 @@ A little more about me...
 ```javascript
 const johnAtkinson = {
   pronouns: "they" | "them" | "theirs",
-  code: [Python, Java, C, Javascript, HTML, CSS],
+  code: [Python, Java, C, HTML, CSS, Javascript],
   tools: [PyCharm, IntelliJ, Git, React.js, Node.js],
 }
 ```
