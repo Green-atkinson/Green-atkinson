@@ -16,7 +16,7 @@ A little more about me...
 const johnAtkinson = {
   pronouns: "they" | "them" | "theirs",
   code: [Python, Java, C, Javascript, HTML, CSS],
-  tools: [React.js, React Native, Node.js, Git],
+  tools: [PyCharm, IntelliJ, Git, React.js, Node.js],
 }
 ```
 
