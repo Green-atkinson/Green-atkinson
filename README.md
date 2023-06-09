@@ -8,9 +8,6 @@
 </div> 
 
 #
-Seeking Technical Product Management internship Summer 2024. Open to any opportunity.
-
-#
 Hey, I'm John! I'm a Computer Science and Advertising major at the University of Georgia. As an Eagle Scout, Ron Brown Scholar Captain, and MLT Software Engineer Fellow, I'm passionate about using tech to positively impact products and people around the world.  One unique thing about me is that I practice Brazillian Jujitsu in my free time. 
 
 A little more about me...  
