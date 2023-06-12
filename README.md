@@ -56,9 +56,9 @@ const johnAtkinson = {
 <div align = "center">
   <img align="center" src="https://i.pinimg.com/originals/86/d7/5a/86d75a902dda5a4c6ac4b95d8a5afba4.gif" width="1000">
 
- <i>"We are here to make a difference in the universe, otherwise why be here?!"
+ <i>"Walls turned sideways are bridges." Therefore, "We must always attempt to lift as we climb."
   
-  Steve Jobs</i>
+  Angela Davis</i>
  
  <img align="center" src="https://forthebadge.com/images/badges/uses-brains.svg" target="_blank"/>
  <img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" target="_blank"/>
