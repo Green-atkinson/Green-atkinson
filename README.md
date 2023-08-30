@@ -60,9 +60,9 @@ const johnAtkinson = {
   
   Angela Davis</i>
  
- <img align="center" src="https://forthebadge.com/images/badges/uses-brains.svg" target="_blank"/>
+ <!-- <img align="center" src="https://forthebadge.com/images/badges/uses-brains.svg" target="_blank"/>
  <img align="center" src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" target="_blank"/>
- <img align="center" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" target="_blank"/>
+ <img align="center" src="https://forthebadge.com/images/badges/not-a-bug-a-feature.svg" target="_blank"/> -->
 </div>
 
 #
