@@ -1,13 +1,11 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGreen-atkinson&label=visitors&labelColor=%2337d67a&countColor=%23555555&style=flat)
  <img src="https://i.pinimg.com/originals/cf/23/d5/cf23d5c33ff1ad50cf49d02721b4b5e2.gif">
  
-#
-<div align='center'>
-  <H3><img alt="mona-whisper" height="30" width="30" src="https://github.githubassets.com/images/mona-whisper.gif"/>👋🏾Hey! I'm John <H3>
 
-</div> 
+<h1 align="center"><img alt="mona-whisper" height="30" width="30" src="https://github.githubassets.com/images/mona-whisper.gif"/>👋🏾Hey! I'm John </h1>
+<h3 align="center">Software Engineer from Atlanta, GA</h3>
 
-#
+
 A little more about me...  
 
 ```javascript
@@ -37,6 +35,8 @@ const johnAtkinson = {
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="John-GIT" width="40" height="40"/> </a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="John-REACT" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="John-NODEJS" width="40" height="40"/> </a> 
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="John-BOOTSTRAP" width="40" height="40"/>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="John-FIGMA" width="40" height="40"/> 
  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="John-PHOTOSHOP" width="40" height="40"/> </a>
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="John-ILLUSTRATOR" width="40" height="40"/> </a>
 </div>
